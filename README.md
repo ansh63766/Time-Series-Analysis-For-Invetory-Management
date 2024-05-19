@@ -15,4 +15,11 @@
 8. Model Evaluation
 9. Multivariate Analysis
 
+Holt's Winter Method:
+![image](https://github.com/ansh63766/Time-Series-Analysis-For-Invetory-Management/assets/113677013/50eec41b-42d5-4a75-9e90-964f6cadd755)
+![image](https://github.com/ansh63766/Time-Series-Analysis-For-Invetory-Management/assets/113677013/d1a55e3b-375f-4762-a12a-082994aaf244)
+
+SARIMA:
 ![image](https://github.com/ansh63766/Time-Series-Analysis-For-Invetory-Management/assets/113677013/4bd8a803-7d10-4424-bdf9-cd15c0853919)
+![image](https://github.com/ansh63766/Time-Series-Analysis-For-Invetory-Management/assets/113677013/12bda22d-78b9-478d-8fb5-c24f098013e2)
+
